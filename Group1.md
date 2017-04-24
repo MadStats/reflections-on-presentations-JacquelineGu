@@ -49,11 +49,36 @@ What were aspects of the presentations for which you had concerns or questions:
 
 
 
-Title of presentation:
+Title of presentation: Game
+
+What were aspects of the presentation that you liked: The data is cool, the topic seems interesting.
+
+What were aspects of the presentations for which you had concerns or questions: Why a lot of players are removed from the data without affecting the analysis? The presentation is not clear enough.
+
+
+
+Title of presentation: Traffic
+
+What were aspects of the presentation that you liked: Clear structure and steps.
+
+What were aspects of the presentations for which you had concerns or questions: All the predictors are somehow correlated.
+
+
+
+Title of presentation: Songs
+
+What were aspects of the presentation that you liked: The word cloud is amazing!
+
+What were aspects of the presentations for which you had concerns or questions:
+
+
+
+Title of presentation: NBA
 
 What were aspects of the presentation that you liked:
 
-What were aspects of the presentations for which you had concerns or questions:
+What were aspects of the presentations for which you had concerns or questions: I'm not that clear what they are really exploring. Seems that their thesis is focusing on the salary, but what they actually showed is Curry's performance?
+
 
 
 
